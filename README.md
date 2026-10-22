@@ -15,6 +15,12 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=assim-ben-ahmed.assim-ben-ahmed&"  />
+</div>
+
+###
+
 <h1 data-importer="text" align="center">Hey there, I'm Assim 👋</h1>
 
 ###
@@ -56,5 +62,19 @@
 ###
 
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=assim-ben-ahmed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assim-ben-ahmed/assim-ben-ahmed/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/assim-ben-ahmed/assim-ben-ahmed/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/assim-ben-ahmed/assim-ben-ahmed/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
